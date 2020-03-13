@@ -14,6 +14,7 @@ public class Application {
 
     public static void main(String[] args) throws Exception {
         SpringApplication.run(Application.class, args);
+		System.out.println("سىستىما  ئارقا سەپ مۇلازىمىتى قوزغىتىلدى، 8080پورتى ئارقىلىق تىخىمۇ كۆپ ئۇچۇرغا ئېرىشىڭ");
     }
 
 }
